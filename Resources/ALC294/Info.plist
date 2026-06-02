@@ -100,6 +100,14 @@
 				<key>Path</key>
 				<string>layout533.xml.zlib</string>
 			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>narcyzzo - Realtek ALC294 for ASUS UX534FAC</string>
+				<key>Id</key>
+				<integer>44</integer>
+				<key>Path</key>
+				<string>layout44.xml.zlib</string>
+			</dict>
 		</array>
 		<key>Platforms</key>
 		<array>
@@ -190,6 +198,14 @@
 				<integer>533</integer>
 				<key>Path</key>
 				<string>Platforms533.xml.zlib</string>
+			</dict>
+			<dict>
+				<key>Comment</key>
+				<string>narcyzzo - Realtek ALC294 for ASUS UX534FAC</string>
+				<key>Id</key>
+				<integer>44</integer>
+				<key>Path</key>
+				<string>Platforms44.xml.zlib</string>
 			</dict>
 		</array>
 	</dict>
