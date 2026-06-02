@@ -78,14 +78,6 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>narcyzzo - Realtek ALC294 for ASUS UX534FAC</string>
-				<key>Id</key>
-				<integer>44</integer>
-				<key>Path</key>
-				<string>layout44.xml.zlib</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>KKKIIINNN - Realtek ALC294 for ASUS X542UQR</string>
 				<key>Id</key>
 				<integer>66</integer>
@@ -102,7 +94,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>UX533 ALC294 codec-dump based: speaker 0x17-&gt;0x03, headphone 0x21-&gt;0x02</string>
+				<string>UX533 ALC294: speaker 0x17-&gt;0x03, headphone 0x21-&gt;0x02</string>
 				<key>Id</key>
 				<integer>533</integer>
 				<key>Path</key>
@@ -177,14 +169,6 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>narcyzzo - Realtek ALC294 for ASUS UX534FAC</string>
-				<key>Id</key>
-				<integer>44</integer>
-				<key>Path</key>
-				<string>Platforms44.xml.zlib</string>
-			</dict>
-			<dict>
-				<key>Comment</key>
 				<string>KKKIIINNN - Realtek ALC294 for ASUS X542UQR</string>
 				<key>Id</key>
 				<integer>66</integer>
@@ -201,7 +185,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>UX533 ALC294 codec-dump based platform</string>
+				<string>UX533 ALC294 platform: speaker 0x17-&gt;0x03, headphone 0x21-&gt;0x02</string>
 				<key>Id</key>
 				<integer>533</integer>
 				<key>Path</key>

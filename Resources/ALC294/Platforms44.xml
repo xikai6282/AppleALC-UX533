@@ -21,9 +21,9 @@
 	<array>
 		<dict>
 			<key>Comments</key>
-			<string>UX533 ALC294: correct paths from codec dump - speaker 0x17-&gt;0x03, headphone 0x21-&gt;0x02</string>
+			<string>UX533 ALC294: speaker 0x17-&gt;0x03, headphone 0x21-&gt;0x02</string>
 			<key>PathMapID</key>
-			<integer>533</integer>
+			<integer>44</integer>
 			<key>PathMap</key>
 			<array>
 				<array>
