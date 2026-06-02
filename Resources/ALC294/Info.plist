@@ -102,7 +102,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>UX533 hybrid: layout44 speakers + layout66 headphones</string>
+				<string>UX533 ALC294 codec-dump based: speaker 0x17-&gt;0x03, headphone 0x21-&gt;0x02</string>
 				<key>Id</key>
 				<integer>533</integer>
 				<key>Path</key>
@@ -201,7 +201,7 @@
 			</dict>
 			<dict>
 				<key>Comment</key>
-				<string>UX533 hybrid platform: 44 speakers + 66 headphones</string>
+				<string>UX533 ALC294 codec-dump based platform</string>
 				<key>Id</key>
 				<integer>533</integer>
 				<key>Path</key>
